@@ -3,4 +3,4 @@
 I'm a frontend developer 😄
 
 ## 📫 Contact
-You can contact me via Telegram [@darkfated](https://t.me/temander)
+You can contact me via Telegram [@temander](https://t.me/temander)
